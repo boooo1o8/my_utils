@@ -1,0 +1,10 @@
+[package]
+name = "my_utils"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "my_utils"
+path = "src/lib.rs"
+
+[dependencies]
